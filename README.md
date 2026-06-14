@@ -1,0 +1,1 @@
+# Simple-Linear-Regression-for-Ice-Cream-Sales
